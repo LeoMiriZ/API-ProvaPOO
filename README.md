@@ -1,6 +1,6 @@
 # API-ProvaPOO
 
-<h4> Projeto final da disciplina de Programação Orientada a Objetos (java) </h4>
+<h4> Projeto final da disciplina de Programação Orientada a Objetos (java) (parte Back-end) </h4>
 
 ##
 
